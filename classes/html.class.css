@@ -1,0 +1,20 @@
+.branco {
+    color: white;
+}
+
+.dark {
+    color: #2e2e2e;
+}
+
+.preto {
+    color: #000000;
+}
+
+.preto20px {
+    color: #000000;
+    font-size:20px;
+}
+
+#tabela_filter {
+    display:none;
+}
